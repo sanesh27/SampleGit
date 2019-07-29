@@ -1,0 +1,12 @@
+1. Create repository
+2. Open git bash locally
+3. git init -> initialize a git repo
+
+one time:
+4. git status -> current status of git folder
+5. git add . -> start tracking & stage all the changes
+6. git commit -m "message for change"
+
+7. git remote -v -> List of remote address
+8. git remote add origin <address>
+9. git push origin <branch name> default branch=master
