@@ -10,3 +10,8 @@ one time:
 7. git remote -v -> List of remote address
 8. git remote add origin <address>
 9. git push origin <branch name> default branch=master
+
+10. git branch <branch name>
+11. git checkout <branch name> -> changes from one branch to another.
+12. git checkout <commit-id>
+13. git fetch
