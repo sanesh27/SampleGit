@@ -1,11 +1,13 @@
-<html>
+<!DOCTYPE html>
     <head>
 
 
     </head>
     <body>
         <div>
-            This is test for asp.
+          <%
+            response.write("Hello, World! ")
+           %>
         </div>
-    </body>
+</body>
 </html>
