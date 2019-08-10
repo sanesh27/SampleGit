@@ -1,0 +1,10 @@
+1. To understand the request object.
+2. To understand Response object.
+3. To understand session object.
+
+form
+cookies
+server variable
+redirect
+server variables
+buffer(dont include)
