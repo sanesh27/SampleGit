@@ -6,5 +6,4 @@ form
 cookies
 server variable
 redirect
-server variables
 buffer(dont include)
