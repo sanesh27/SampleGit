@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #a9d7d1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.wrapper {
+    width: 75%;
+    height: 100vh;
+    background-color: rgb(250,250,250);
+    margin: 0 auto;
+    padding: 10px;
+    padding-top: 20px;
+}
+
+div.top {
+    position: relative;
+    padding: 30px;
+    margin-bottom: 10px;
+    height: 100px;
+    font-size: 25px;
+    font-weight: lighter;
+    text-align: center;
+    
+}
+
+div.main {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+
+ div.contact {
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-bottom: 5px;   
+}
+
+.contact-info div img {
+    position: relative;
+    left: 20%;
+}
+
+.contact div h3 {
+    font-weight: 20px;
+    text-align: center;
+}
+
+.info {
+    font-size: 20px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.about-me {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.about-me h1 {
+    font-size: 25px;
+}
+
+.about-me p, h5 {
+    font-size: 20px;
+}
